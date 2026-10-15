@@ -4,7 +4,7 @@ Proyecto de demostración: un cuestionario de autoevaluación de madurez con **d
 
 El objetivo del ejercicio es el problema técnico de fondo: **agregar una ruta nueva a un cuestionario que ya existe sin alterar el algoritmo, sin tocar los resultados ya guardados y con una reversa segura**. Todo el contenido (dimensiones, capacidades, preguntas) es inventado para esta demostración.
 
-> Es un proyecto de demostración creado en octubre de 2026, no un sistema en producción. Se desarrolló con asistencia de IA (Claude Code), y el historial de commits es el real.
+> Es un proyecto de demostración creado en octubre de 2026, no un sistema en producción.
 
 Stack: PHP 8.5, Laravel 13, MySQL 8.4 (Docker), PHPUnit.
 
